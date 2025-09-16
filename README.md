@@ -34,3 +34,11 @@ supply-chain-forecasting/
 ```bash
 git clone https://github.com/sirimallasumanth714-ai/supply-chain-forecasting.git
 cd supply-chain-forecasting
+
+## Forecast Plot
+
+Here is the 30-day demand forecast:
+
+![Forecast Plot](data/forecast_plot.png)
+
+
